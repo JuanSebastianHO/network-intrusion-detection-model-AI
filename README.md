@@ -28,9 +28,6 @@ El enfoque metodológico se divide en dos componentes estratégicos:
 ### Cybersecurity Intrusion Detection Dataset
 * **Descripcion:** Contiene múltiples features relacionadas con características del tráfico (tamaño de paquetes, tipo de protocolo, uso de cifrado) y de comportamiento (intentos de inicio de sesión, duración de sesiones, accesos en horarios atípicos), junto con una etiqueta binaria (attack_detected) que indica si una actividad corresponde a un ataque o a tráfico normal.
 
-📥 **[Descargar Cybersecurity Intrusion Detection Dataset en Kaggle](https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset)**
 
 ## 🔗 Enlaces:
-- Notebook:
-- Diapositivas:
 - Video Youtube:
