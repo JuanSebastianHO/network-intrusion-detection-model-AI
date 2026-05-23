@@ -1,7 +1,7 @@
 ![Banner](images/banner.jpeg "Banner")
 
 # NETWORK-INTRUSION-DETECTION-MODEL-AI
-By:
+## Authors:
 -Estefany Katerine Caceres Chanaga
 -Hugo Andres Arciniegas Hernandez
 -Juan Sebastian Herrera Ortega
