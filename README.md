@@ -15,8 +15,9 @@ Desarrollar e implementar sistemas de detección de intrusiones en redes mediant
 El enfoque metodológico se divide en dos componentes estratégicos:
 
 1. **Aprendizaje No Supervisado:** Implementar algoritmos de agrupamiento (Clustering) para modelar el comportamiento normal de la red, permitiendo descubrir patrones inusuales, anomalías o amenazas desconocidas sin depender de etiquetas previas.
-2. **Aprendizaje Supervisado:** Entrenar modelos de clasificación binaria para predecir de forma automatizada y con alta precisión si los registros corresponden a un ataque digital (`attack_detected`), optimizando métricas clave como Precisión y F1-Score ante amenazas ya documentadas.
+2. **Aprendizaje Supervisado:** Entrenar modelos de clasificación binaria para predecir de forma automatizada y con precisión si los registros corresponden a un ataque digital (`attack_detected`), optimizando métricas clave como Precisión y F1-Score ante amenazas ya documentadas.
 
-##Enlaces:
-- 📔Notebook:
+## 🔗 Enlaces:
+- Notebook:
+- Diapositivas:
 - Video Youtube:
