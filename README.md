@@ -22,6 +22,13 @@ El enfoque metodológico se divide en dos componentes estratégicos:
 1. **Aprendizaje No Supervisado:** Implementar algoritmos de agrupamiento (Clustering) para modelar el comportamiento normal de la red, permitiendo descubrir patrones inusuales, anomalías o amenazas desconocidas sin depender de etiquetas previas.
 2. **Aprendizaje Supervisado:** Entrenar modelos de clasificación binaria para predecir de forma automatizada y con precisión si los registros corresponden a un ataque digital (`attack_detected`), optimizando métricas clave como Precisión y F1-Score ante amenazas ya documentadas.
 
+## 📊 Dataset
+
+### Cybersecurity Intrusion Detection Dataset
+* **Descargar Dataset:** Puedes acceder y descargar los archivos directamente desde el repositorio oficial en Kaggle a través del siguiente enlace:
+
+📥 **[Descargar Cybersecurity Intrusion Detection Dataset en Kaggle](https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset)**
+
 ## 🔗 Enlaces:
 - Notebook:
 - Diapositivas:
