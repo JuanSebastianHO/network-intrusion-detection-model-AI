@@ -3,7 +3,7 @@
 # NETWORK INTRUSION DETECTION MODEL AI
 ## Authors:
 - Estefany Katerine Caceres Chanaga 2230053
-- Hugo Andres Arciniegas Hernandez 2230
+- Hugo Andres Arciniegas Hernandez 2230095
 - Juan Sebastian Herrera Ortega 2230051
 
 Proyecto orientado al diseño, entrenamiento y evaluación de modelos de inteligencia artificial para la detección de ciberintrusiones basadas en el trafico de red y comportamiento de usuarios.
