@@ -11,6 +11,7 @@ Proyecto orientado al diseño, entrenamiento y evaluación de modelos de intelig
 ## 📌 Tabla de Contenido
 
 * [🎯 Objetivo](#-objetivo)
+* [📊 Dataset](#-dataset)
 * [🔗 Enlaces](#-enlaces)
 
 ## 🎯Objetivo
