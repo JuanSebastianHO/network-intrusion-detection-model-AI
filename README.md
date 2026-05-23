@@ -2,7 +2,7 @@
 
 # NETWORK INTRUSION DETECTION MODEL AI
 ## Authors:
-- Estefany Katerine Caceres Chanaga 2230053
+- Estefany Katerin Caceres Chanaga 2230053
 - Hugo Andres Arciniegas Hernandez 2230095
 - Juan Sebastian Herrera Ortega 2230051
 
