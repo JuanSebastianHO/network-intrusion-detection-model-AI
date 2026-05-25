@@ -30,6 +30,6 @@ El enfoque metodológico se divide en dos componentes estratégicos:
 
 
 ## 🔗 Enlaces:
-- Video Youtube:
+- Video Youtube: https://youtu.be/d-6lCHvtk38
 - Notebook: [Notebook de pruebas](./NOTEBOOK.ipynb)
 - Diapositivas: [Diapositivas](./DIAPOSITIVAS.pdf)
